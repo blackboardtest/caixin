@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "name": "财新",
+  "description": "财新",
+  "keywords": [
+    "金融"
+  ],
+  "interval": 10,
+  "author": {
+    "name": "vimrus",
+    "email": "vimrus.com@gmail.com",
+    "url": "https://github.com/vimrus"
+  },
+  "style": "title-image",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vimrus/caixin"
+  },
+  "bugs": "https://github.com/vimrus/caixin/issues",
+  "main": "index.js"
+}
